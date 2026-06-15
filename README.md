@@ -27,7 +27,7 @@ I build and study systems where perception meets action: autonomous agents that 
 ## Publications
 
 - **Assessing Vision-Language Models for Failure Detection in Robotic Manipulation**<br>
-  MD Sameer Iqbal Chowdhury and Tsz-Chiu Au. *IEEE Pulse*, 2026. DOI: [10.1109/MPULS.2026.3659245](https://doi.org/10.1109/MPULS.2026.3659245). In press.
+  MD Sameer Iqbal Chowdhury and Tsz-Chiu Au. *IEEE Pulse*, 2026. DOI: [10.1109/MPULS.2026.3659245](https://doi.org/10.1109/MPULS.2026.3659245).
 - **Design of an IoT-enabled Scalable Closed Hydroponics System with Intelligent Parameter Control and Persistent Sensing Error Resilience**<br>
   MD Sameer Iqbal Chowdhury, Mikdam-Al-Maad Ronoue, Md Asaduzzaman, and Lafifa Jamal. *Smart Agricultural Technology*, under review. DOI: [10.2139/ssrn.5011949](https://doi.org/10.2139/ssrn.5011949).
 - **Exploring the Efficacy of NAO Robot as a Language Instructor**<br>
@@ -59,11 +59,3 @@ I build and study systems where perception meets action: autonomous agents that 
 - 2nd Place, Texas State University Capture The Flag competition conducted by EC-Council, 2025.
 - ICT Innovation Fund Grant, Bangladesh ICT Division, 2023-2024, as Co-PI for the smart hydroponics project.
 - Highest Mark in Country, Economics, Cambridge Assessment International Examinations, 2018.
-
-## GitHub Snapshot
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=MSIChowdhury&amp;show_icons=true&amp;show=reviews,prs_merged,prs_merged_percentage&amp;rank_icon=github&amp;theme=transparent&amp;hide_border=true&amp;title_color=501214&amp;text_color=4b5563&amp;icon_color=8d734a" alt="GitHub public stats for MSIChowdhury" height="180" />
-  <img src="https://streak-stats.demolab.com?user=MSIChowdhury&amp;theme=transparent&amp;hide_border=true&amp;date_format=M%20j%5B%2C%20Y%5D&amp;ring=501214&amp;fire=8D734A&amp;currStreakLabel=501214&amp;sideLabels=501214&amp;currStreakNum=4b5563&amp;sideNums=4b5563&amp;dates=6b7280" alt="GitHub contribution streak for MSIChowdhury" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MSIChowdhury&amp;layout=donut&amp;langs_count=10&amp;size_weight=0.5&amp;count_weight=0.5&amp;theme=transparent&amp;hide_border=true&amp;title_color=501214&amp;text_color=4b5563" alt="Top public repository languages for MSIChowdhury" height="180" />
-</p>
