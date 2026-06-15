@@ -63,6 +63,7 @@ I build and study systems where perception meets action: autonomous agents that 
 ## GitHub Snapshot
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=MSIChowdhury&show_icons=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage&rank_icon=github&theme=transparent&hide_border=true&title_color=501214&text_color=4b5563&icon_color=8d734a" alt="GitHub public stats for MSIChowdhury" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MSIChowdhury&layout=donut&langs_count=10&size_weight=0.5&count_weight=0.5&theme=transparent&hide_border=true&title_color=501214&text_color=4b5563" alt="Top public repository languages for MSIChowdhury" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MSIChowdhury&amp;show_icons=true&amp;show=reviews,prs_merged,prs_merged_percentage&amp;rank_icon=github&amp;theme=transparent&amp;hide_border=true&amp;title_color=501214&amp;text_color=4b5563&amp;icon_color=8d734a" alt="GitHub public stats for MSIChowdhury" height="180" />
+  <img src="https://streak-stats.demolab.com?user=MSIChowdhury&amp;theme=transparent&amp;hide_border=true&amp;date_format=M%20j%5B%2C%20Y%5D&amp;ring=501214&amp;fire=8D734A&amp;currStreakLabel=501214&amp;sideLabels=501214&amp;currStreakNum=4b5563&amp;sideNums=4b5563&amp;dates=6b7280" alt="GitHub contribution streak for MSIChowdhury" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MSIChowdhury&amp;layout=donut&amp;langs_count=10&amp;size_weight=0.5&amp;count_weight=0.5&amp;theme=transparent&amp;hide_border=true&amp;title_color=501214&amp;text_color=4b5563" alt="Top public repository languages for MSIChowdhury" height="180" />
 </p>
