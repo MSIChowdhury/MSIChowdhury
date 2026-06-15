@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="./assets/profile-banner.png" alt="A witty robotics research lab banner with a robot arm, sensors, VLM diagrams, and a sticky note that says debugging reality" width="100%" />
+  <img src="./assets/txst-cs-banner.jpg" alt="Texas State University campus banner from the Department of Computer Science site" width="100%" />
 </p>
 
 # MD Sameer Iqbal Chowdhury
 
 **Ph.D. student in Computer Science at Texas State University**<br>
-Researching vision-language models, robotic manipulation, autonomous navigation, and reliable physical AI systems.
+Researching deep learning for autonomous robotic agents, robotic perception, manipulation, navigation, and reliable physical AI systems.
 
-I build and study systems where perception meets action: robots that need to see, reason, fail gracefully, and try again without making the lab regret giving them motors.
+I build and study systems where perception meets action: autonomous agents that need to sense, reason, adapt, and recover under messy real-world conditions.
 
 <p>
   <a href="mailto:vsj23@txstate.edu">Email</a> |
@@ -20,16 +20,9 @@ I build and study systems where perception meets action: robots that need to see
 
 ## Current Focus
 
-- Benchmarking vision-language models for robotic manipulation, from edge-friendly models such as Moondream2 and SmolVLM to larger reasoning models such as Qwen-2-VL and Florence-2.
-- Studying failure detection and recovery so autonomous systems can recognize when a manipulation task has gone sideways.
-- Exploring multimodal sensing, autonomous navigation, and robust embedded intelligence for real-world robotic systems.
-
-## Featured Work
-
-| Robotics, VLMs, and Failure Detection | Smart Hydroponics and Embedded AI |
-| --- | --- |
-| <img src="./assets/robot-research-card.png" alt="Robot arm and camera evaluating objects with a caption about visual grounding" width="100%" /> | <img src="./assets/hydroponics-card.png" alt="IoT hydroponics system with sensors, telemetry, and leafy greens" width="100%" /> |
-| Assessing VLMs for failure detection in robotic manipulation, with an emphasis on reliability and recovery in autonomous systems. | Designed an IoT-enabled closed hydroponics system with intelligent parameter control and persistent sensing error resilience, improving fresh mass yield by 78-288%. |
+- Deep learning for autonomous robotic agents, especially perception-action loops for manipulation and navigation.
+- Failure detection and recovery for robots operating in noisy, real-world environments.
+- Multimodal sensing, embedded intelligence, and data-driven control for reliable physical AI systems.
 
 ## Publications
 
@@ -52,7 +45,7 @@ I build and study systems where perception meets action: robots that need to see
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 
 **Hardware:** NVIDIA Jetson, Arduino, Raspberry Pi, sensors, actuators<br>
-**Research stack:** VLM benchmarking, robotic manipulation, YOLO, multimodal data, embedded control
+**Research stack:** deep learning for autonomous agents, robotic perception, manipulation, multimodal data, embedded control
 
 ## Teaching, Leadership, and Service
 
@@ -70,10 +63,6 @@ I build and study systems where perception meets action: robots that need to see
 ## GitHub Snapshot
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=MSIChowdhury&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats for MSIChowdhury" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MSIChowdhury&layout=compact&theme=transparent&hide_border=true" alt="Top languages for MSIChowdhury" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MSIChowdhury&show_icons=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage&rank_icon=github&theme=transparent&hide_border=true&title_color=501214&text_color=4b5563&icon_color=8d734a" alt="GitHub public stats for MSIChowdhury" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MSIChowdhury&layout=donut&langs_count=10&size_weight=0.5&count_weight=0.5&theme=transparent&hide_border=true&title_color=501214&text_color=4b5563" alt="Top public repository languages for MSIChowdhury" height="180" />
 </p>
-
----
-
-Currently thinking about robots that can explain what they saw, what they tried, and why the cube is still on the wrong side of the table.
