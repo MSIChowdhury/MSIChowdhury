@@ -4,7 +4,7 @@
 
 # MD Sameer Iqbal Chowdhury
 
-**Ph.D. student in Computer Science at Texas State University**<br>
+**Ph.D student in Computer Science at Texas State University**<br>
 Researching deep learning for autonomous robotic agents, robotic perception, manipulation, navigation, and reliable physical AI systems.
 
 I build and study systems where perception meets action: autonomous agents that need to sense, reason, adapt, and recover under messy real-world conditions.
